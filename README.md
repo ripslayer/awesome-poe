@@ -376,6 +376,11 @@
   <td>✔</td>
   <td></td>
 </tr>
+<tr>
+  <td>🌐 <a href="https://poemap.trade">poemap.trade</a></td>
+  <td>✔</td>
+  <td></td>
+</tr>
 
 
 <tr>
@@ -533,7 +538,7 @@
 </tr>
 <tr>
   <td>🌐 <a href="https://poemap.live">poemap.live</a></td>
-  <td>✔</td>
+  <td><img src="https://img.shields.io/badge/-abandoned-e66"></td>
   <td></td>
 </tr>
 <tr>
